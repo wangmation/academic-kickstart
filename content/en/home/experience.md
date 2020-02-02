@@ -60,7 +60,7 @@ date_format = "Jan 2006"
   location = "Zigong, Sichuan, CHINA"
   date_start = "2016-01-01"
   date_end = "2016-06-01"
-  description = """Worked in a local computer appliances company in my college days."""
+  description = """Worked for a local computer appliances company in my college days."""
   
 
 

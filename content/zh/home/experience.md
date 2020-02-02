@@ -60,7 +60,7 @@ date_format = "Jan 2006"
   location = "四川省自贡市"
   date_start = "2016-01-01"
   date_end = "2016-06-01"
-  description = """在专科时期，为当地的电脑配件公司工作过。"""
+  description = """在专科时期，为当地的电脑整机及配件销售公司工作过。"""
   
 
 

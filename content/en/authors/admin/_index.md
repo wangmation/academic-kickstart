@@ -71,4 +71,4 @@ user_groups:
 
 Born in Zigong, Sichuan Province, Learnt Japanese by online courses after get JLPT N3, Started my Internet life from 2003. This page is designed for personal resume.
 
-I speak Mandarin, English and a little Japanese with continous learning. Something could prove my current level in using English is an expired IELTS overall score at 6.5. And I thought daily English conversation is not a problem for me. 
+I speak Mandarin, English and a little Japanese, still learning Japanese now. Something could prove my current level in using English was an expired IELTS overall score at 6.5. I thought daily English conversation is not a problem for me. 
